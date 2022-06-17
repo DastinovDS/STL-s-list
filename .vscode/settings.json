@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "algorithm": "cpp",
+        "cctype": "cpp",
+        "cstdlib": "cpp",
+        "initializer_list": "cpp",
+        "ios": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "limits": "cpp",
+        "list": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp"
+    }
+}
